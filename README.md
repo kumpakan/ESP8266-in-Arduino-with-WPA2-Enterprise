@@ -32,7 +32,7 @@ with WPA2 Enterprise WiFi Support [Windows version]
 9. in Git CMD type
    cd esp8266/tools
 
-10. in Git CMD type
-   python get.py
+10. in Git CMD type (in case you install python in "c:\python27" folder)
+   c:\python27\python get.py
 
 11. Restart Arduino
