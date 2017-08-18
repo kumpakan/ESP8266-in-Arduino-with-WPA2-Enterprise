@@ -30,6 +30,7 @@ with WPA2 Enterprise WiFi Support [Windows version]
    git clone -b update_sdk_2.0.0 https://github.com/esp8266/Arduino.git esp8266
 
 9. in Git CMD type
+
    cd esp8266/tools
 
 10. in Git CMD type (in case you install python in "c:\python27" folder)
