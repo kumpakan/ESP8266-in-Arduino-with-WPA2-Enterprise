@@ -15,18 +15,23 @@ with WPA2 Enterprise WiFi Support [Windows version]
    - select More / Run as administrator
 
 4. in Git CMD type
+
    cd "C:\Program Files\Arduino" (or goto your Arduino IDE folder)
 
 5. in Git CMD type
+
    cd hardware
 
 6. in Git CMD type
+
    mkdir esp8266com
 
 7. in Git CMD type
+
    cd esp8266com
 
 8. in Git CMD type
+
    git clone -b update_sdk_2.0.0 https://github.com/esp8266/Arduino.git esp8266
 
 9. in Git CMD type
@@ -34,6 +39,7 @@ with WPA2 Enterprise WiFi Support [Windows version]
    cd esp8266/tools
 
 10. in Git CMD type (in case you install python in "c:\python27" folder)
+
    c:\python27\python get.py
 
 11. Restart Arduino
