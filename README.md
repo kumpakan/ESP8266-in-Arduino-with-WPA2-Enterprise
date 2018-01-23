@@ -19,7 +19,7 @@ with WPA2 Enterprise WiFi Support [Windows version]
    (for Windows 10 32bit)
 
       cd "C:\Program Files\Arduino"
-   
+<br>   
    
    (for Windows 10 64bit)
 
