@@ -14,17 +14,17 @@ with WPA2 Enterprise WiFi Support [Windows version]
    - right click Git CMD
    - select More / Run as administrator
 
-4. in Git CMD ...
+4. in Git CMD type
    
-   (32bit Window) type
+   cd "C:\Program Files (x86)\Arduino"
 
-      cd "C:\Program Files\Arduino"
-      
-      
+   (64bit Windows)
    
-   (64bit Windows) type
+   or
 
-      cd "C:\Program Files (x86)\Arduino"
+   cd "C:\Program Files\Arduino"
+   
+   (32bit Window) 
 
    (or change to your Arduino IDE install folder)
 
