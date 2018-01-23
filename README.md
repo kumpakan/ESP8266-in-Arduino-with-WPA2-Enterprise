@@ -15,8 +15,13 @@ with WPA2 Enterprise WiFi Support [Windows version]
    - select More / Run as administrator
 
 4. in Git CMD type
-
-   cd "C:\Program Files\Arduino" (or goto your Arduino IDE folder)
+   
+   (for Windows 10 32 bit)
+   cd "C:\Program Files\Arduino"
+   
+   (for Windows 10 64 bit)
+   cd "C:\Program Files (x86)\Arduino" 
+   (or other Arduino IDE install folder)
 
 5. in Git CMD type
 
@@ -38,7 +43,8 @@ with WPA2 Enterprise WiFi Support [Windows version]
 
    cd esp8266/tools
 
-10. in Git CMD type (in case you install python in "c:\python27" folder)
+10. in Git CMD type 
+   (in case you install python in "c:\python27" folder)
 
    c:\python27\python get.py
 
