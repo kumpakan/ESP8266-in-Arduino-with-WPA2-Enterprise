@@ -50,8 +50,8 @@ with WPA2 Enterprise WiFi Support [Windows version]
 
 10. in Git CMD type
 
-   (in case you install python in "c:\python27" folder)
-
       c:\python27\python get.py
+      
+      (in case you install python in "c:\python27" folder)
 
 11. Restart Arduino
