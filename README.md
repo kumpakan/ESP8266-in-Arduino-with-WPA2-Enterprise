@@ -16,10 +16,10 @@ with WPA2 Enterprise WiFi Support [Windows version]
 
 4. in Git CMD type
    
-   (for Windows 10 32 bit)
+   (for Windows 10 32bit)
    cd "C:\Program Files\Arduino"
    
-   (for Windows 10 64 bit)
+   (for Windows 10 64bit)
    cd "C:\Program Files (x86)\Arduino" 
    (or other Arduino IDE install folder)
 
