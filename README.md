@@ -42,7 +42,7 @@ with WPA2 Enterprise WiFi Support [Windows version]
 
 8. in Git CMD type
 
-      git clone -b update_sdk_2.0.0 https://github.com/esp8266/Arduino.git esp8266
+      git clone https://github.com/esp8266/Arduino.git esp8266
 
 9. in Git CMD type
 
